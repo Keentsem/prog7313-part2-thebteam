@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary">#EEBA86</color>
+    <color name="primary_dark">#D9A979</color>
+    <color name="primary_light">#F5D9BC</color>
+
+    <!-- Secondary colors -->
+    <color name="secondary">#FFD1AE</color>
+    <color name="secondary_dark">#E6BC9D</color>
+
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Accent color -->
+    <color name="accent">#FF9800</color>
+
+    <!-- Bottom Navigation colors -->
+    <color name="bottom_nav_item_color">@color/primary</color>
+
+    <!-- Category colors -->
+    <color name="selected_category">#E3F2FD</color>
+
+    <!-- Layout colors -->
+    <color name="background_color">#994F31</color>
+    <color name="text_color">#EEBA86</color>
+    <color name="button_color">#A89D92</color>
+</resources>
